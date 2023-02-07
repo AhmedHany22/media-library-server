@@ -104,5 +104,19 @@
       "url": "https://loremflickr.com/150/150/abstract?lock=15626",
       "id": 8
     }
+  ],
+  "books": [
+    {
+      "title": "Wednesday",
+      "id": 4
+    },
+    {
+      "title": "Lord of the Rings",
+      "id": 5
+    },
+    {
+      "title": "Harry Potter",
+      "id": 6
+    }
   ]
 }
