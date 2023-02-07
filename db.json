@@ -1,0 +1,108 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Marguerite Reynolds",
+      "id": 2
+    },
+    {
+      "name": "Elsie Price",
+      "id": 3
+    },
+    {
+      "name": "Harold Strosin",
+      "id": 4
+    },
+    {
+      "name": "Blake Schmitt",
+      "id": 5
+    },
+    {
+      "name": "Mrs. June Rolfson",
+      "id": 6
+    },
+    {
+      "name": "Albert Terry",
+      "id": 7
+    },
+    {
+      "name": "Wm Beahan",
+      "id": 8
+    },
+    {
+      "name": "Leona Balistreri",
+      "id": 9
+    },
+    {
+      "name": "Bridget Hettinger",
+      "id": 10
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Oriental Concrete Fish",
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "title": "Recycled Fresh Keyboard",
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "title": "Recycled Soft Soap",
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "title": "Handmade Plastic Hat",
+      "id": 4
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=42541",
+      "id": 1
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=75542",
+      "id": 2
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=31510",
+      "id": 3
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=51051",
+      "id": 4
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=84981",
+      "id": 5
+    },
+    {
+      "albumId": 3,
+      "url": "https://loremflickr.com/150/150/abstract?lock=16847",
+      "id": 6
+    },
+    {
+      "albumId": 4,
+      "url": "https://loremflickr.com/150/150/abstract?lock=83096",
+      "id": 7
+    },
+    {
+      "albumId": 4,
+      "url": "https://loremflickr.com/150/150/abstract?lock=15626",
+      "id": 8
+    }
+  ]
+}
