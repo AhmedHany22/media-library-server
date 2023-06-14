@@ -118,5 +118,183 @@
       "title": "Harry Potter",
       "id": 6
     }
+  ],
+  "results": {
+    "products": [
+      {
+        "name": "Coriander Leaves (Dhonia Pata)",
+        "category": "± 10 gm",
+        "img_url": "https://grostore.themetags.com/public/uploads/media/mE4MT4CiSn54q4D9hQFscvQ4fY1yMDoa4uNRSJ7y.png",
+        "price": "1,440.00",
+        "currency": "₹"
+      },
+      {
+        "name": "Dragon Fruit Local",
+        "category": "± 50 gm",
+        "img_url": "https://grostore.themetags.com/public/uploads/media/itXzsN5z4mRcQOvxl3qwWdPUo6UFBR7JYgnHNCaP.png",
+        "price": "840.00",
+        "currency": "₹"
+      },
+      {
+        "name": "Red Capsicum",
+        "category": "±12 gm",
+        "img_url": "https://grostore.themetags.com/public/uploads/media/27XPsm3LuwtEJZDhw7mP2mVFPnsTaXP1WQePTmYR.png",
+        "price": "180.00",
+        "currency": "₹"
+      },
+      {
+        "name": "Green Melon",
+        "category": "± 50 gm",
+        "img_url": "https://grostore.themetags.com/public/uploads/media/xjVdlK6g0PT8vq5BdxjSb8D441BPj0384WahBdRl.png",
+        "price": "400.00",
+        "currency": "₹"
+      }
+    ],
+    "categories": [
+      {
+        "img_url": "https://grostore.themetags.com/public/uploads/media/wUmBSdLhhuyiPqNrzJJbxdtFemrBtwS2lDcfecbf.png",
+        "name": "MMA",
+        "desc": "raw"
+      },
+      {
+        "img_url": "https://grostore.themetags.com/public/uploads/media/5oephm2sfLrK3ISeqQThhR9rA5FKcCsDnRsOezBZ.png",
+        "name": "NSA",
+        "desc": "raw"
+      },
+      {
+        "img_url": "https://grostore.themetags.com/public/uploads/media/WQJjaqXZXNnUHaubvRhHh5c3m4knHkCSwHWCIPWd.png",
+        "name": "CSS",
+        "desc": "raw"
+      }
+    ]
+  },
+  "mega_menu": [
+    {
+      "id": "home",
+      "name": "Home",
+      "data": {
+        "categories": [
+          { "name": "TVs", "url": "#" },
+          { "name": "Home", "url": "#" },
+          { "name": "Cameras", "url": "#" },
+          { "name": "Printers", "url": "#" }
+        ],
+        "sections": [
+          {
+            "title": "top brands",
+            "width": "col-span-2",
+            "content": [
+              { "src": "/Brands/brand-01.png", "width": "w-1/3", "url": "/", "meta": "description" },
+              { "src": "/Brands/brand-03.png", "width": "w-1/3", "url": "/", "meta": "description" },
+              { "src": "/Brands/brand-04.png", "width": "w-1/3", "url": "/", "meta": "description" },
+              { "src": "/Brands/brand-05.png", "width": "w-1/3", "url": "/", "meta": "description" },
+              { "src": "/Brands/brand-06.png", "width": "w-1/3", "url": "/", "meta": "description" },
+              { "src": "/Brands/brand-08.png", "width": "w-1/3", "url": "/", "meta": "description" },
+              { "src": "/Brands/brand-09.png", "width": "w-1/3", "url": "/", "meta": "description" }
+            ]
+          },
+          {
+            "title": "",
+            "width": "col-span-2",
+            "content": [
+              { "src": "/Banner/Banner-01.png", "width": "w-3/5", "url": "./././", "meta": "description" },
+              { "src": "/Banner/Banner-02.png", "width": "w-2/5", "url": "./././", "meta": "description" }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "electronics",
+      "name": "Electronics",
+      "data": {
+        "categories": [
+          { "name": "Mobile", "url": "/" },
+          { "name": "Tablets", "url": "/" },
+          { "name": "Smartwatches", "url": "/" },
+          { "name": "Earphones", "url": "/" },
+          { "name": "Power Banks", "url": "/" },
+          { "name": "Chargers", "url": "/" },
+          { "name": "Covers", "url": "/" }
+        ],
+        "sections": [
+          {
+            "title": "top brands",
+            "width": "col-span-4",
+            "content": [
+              { "src": "/Brands/brand-01.png", "width": "w-1/6", "url": "/", "meta": "description" },
+              { "src": "/Brands/brand-03.png", "width": "w-1/6", "url": "/", "meta": "description" },
+              { "src": "/Brands/brand-04.png", "width": "w-1/6", "url": "/", "meta": "description" },
+              { "src": "/Brands/brand-05.png", "width": "w-1/6", "url": "/", "meta": "description" },
+              { "src": "/Brands/brand-06.png", "width": "w-1/6", "url": "/", "meta": "description" },
+              { "src": "/Brands/brand-08.png", "width": "w-1/6", "url": "/", "meta": "description" },
+              { "src": "/Brands/brand-09.png", "width": "w-1/6", "url": "/", "meta": "description" }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "mobile",
+      "name": "Mobile",
+      "data": {
+        "categories": [
+          { "name": "TVs", "url": "./././" },
+          { "name": "Home", "url": "./././" },
+          { "name": "Cameras", "url": "./././" },
+          { "name": "Printers", "url": "./././" }
+        ],
+        "sections": [
+          {
+            "width": "col-span-4",
+            "title": "",
+            "content": [
+              { "src": "/Banner/Banner-05.png", "width": "w-2/6", "url": "./././", "meta": "description" },
+              { "src": "/Banner/Banner-06.png", "width": "w-1/6", "url": "./././", "meta": "description" },
+              { "src": "/Banner/Banner-05.png", "width": "w-2/6", "url": "./././", "meta": "description" },
+              { "src": "/Banner/Banner-06.png", "width": "w-1/6", "url": "./././", "meta": "description" },
+              {
+                "src": "https://f.nooncdn.com/mpcms/EN0003/assets/ca90b5c3-08e9-4d4f-b578-14245d76baa6.png",
+                "width": "w-6/6",
+                "url": "./././",
+                "meta": "description"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "categories": [
+    {
+      "name": "kitchen",
+      "img": "",
+      "url": "",
+      "id": "",
+      "sub_categ": [
+        { "name": "Cookware", "url": "" },
+        { "name": "Drinkware", "url": "" }
+      ]
+    },
+    {
+      "name": "Bath",
+      "img": "",
+      "url": "",
+      "id": "",
+      "sub_categ": [
+        { "name": "", "url": "Tools" },
+        { "name": "", "url": "Accessories" }
+      ]
+    },
+    {
+      "name": "Storage",
+      "img": "",
+      "url": "",
+      "id": "",
+      "sub_categ": [
+        { "name": "Accessories", "url": "" },
+        { "name": "Clothing", "url": "" }
+      ]
+    }
   ]
 }
